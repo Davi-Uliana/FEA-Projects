@@ -21,7 +21,9 @@ The analysis chain includes:
 - Evaluate buckling stability margins
 - Apply sub-modelling techniques to refine local stress predictions
 
-<img width="4131" height="2211" alt="BCs" src="https://github.com/user-attachments/assets/9b87ee79-f3bb-4ce1-a131-42f0f293ccda" />
+##Boundary Conditions
+
+<img width="4136" height="1973" alt="BCs" src="https://github.com/user-attachments/assets/fb6872e0-aa7c-4af0-acfd-94e2c715076d" />
 
 ## Tools & Methods
 - Software: ANSYS Workbench (Mechanical)
@@ -62,7 +64,7 @@ The analysis chain includes:
 This repository is intended to showcase engineering judgement and modelling practices rather
 than act as a full academic submission. The complete report is included for reference.
 
-## LInear Analysis Cases and Loads
+## Linear Analysis Cases and Loads
 
 <img width="1731" height="551" alt="image" src="https://github.com/user-attachments/assets/224f4d80-fe25-419d-b317-fdfe790563fc" />
 
