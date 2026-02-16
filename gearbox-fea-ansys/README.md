@@ -22,7 +22,7 @@ The analysis chain includes:
 - Apply sub-modelling techniques to refine local stress predictions
 
 ## Boundary Conditions
-<img width="3838" height="1533" alt="BCs" src="https://github.com/user-attachments/assets/399a7ca1-a71c-4b15-b85b-baeed238ecbe" />
+<img width="4131" height="2211" alt="BCs" src="https://github.com/user-attachments/assets/9b87ee79-f3bb-4ce1-a131-42f0f293ccda" />
 
 ## Tools & Methods
 - Software: ANSYS Workbench (Mechanical)
