@@ -7,6 +7,8 @@ subjected to combined thermal and mechanical loading. The work was completed as 
 *MSc in Numerical Simulation in Engineering* and focuses on applying robust modelling,
 verification and interpretation practices using ANSYS Workbench.
 
+<img width="3838" height="1533" alt="BCs" src="https://github.com/user-attachments/assets/399a7ca1-a71c-4b15-b85b-baeed238ecbe" />
+
 The analysis chain includes:
 - Thermal–structural coupling
 - Modal and harmonic response
