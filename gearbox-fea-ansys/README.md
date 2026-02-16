@@ -23,7 +23,7 @@ The analysis chain includes:
 
 ##Boundary Conditions
 
-<img width="4136" height="1973" alt="BCs" src="https://github.com/user-attachments/assets/fb6872e0-aa7c-4af0-acfd-94e2c715076d" />
+
 
 ## Tools & Methods
 - Software: ANSYS Workbench (Mechanical)
