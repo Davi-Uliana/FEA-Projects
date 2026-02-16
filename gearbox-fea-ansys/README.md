@@ -21,7 +21,7 @@ The analysis chain includes:
 - Evaluate buckling stability margins
 - Apply sub-modelling techniques to refine local stress predictions
 
-##Boundary Conditions
+## Boundary Conditions
 
 
 
