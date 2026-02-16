@@ -62,3 +62,7 @@ The analysis chain includes:
 ## Notes
 This repository is intended to showcase engineering judgement and modelling practices rather
 than act as a full academic submission. The complete report is included for reference.
+
+## LInear Analysis Cases and Loads
+
+<img width="3838" height="1533" alt="BCs" src="https://github.com/user-attachments/assets/399a7ca1-a71c-4b15-b85b-baeed238ecbe" />
