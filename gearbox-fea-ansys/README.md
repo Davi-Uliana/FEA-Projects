@@ -65,5 +65,6 @@ than act as a full academic submission. The complete report is included for refe
 
 ## LInear Analysis Cases and Loads
 
-<img width="1731" height="551" alt="image" src="https://github.com/user-attachments/assets/43626cd0-8429-41e1-bdfa-f821d60b4278" />
+<img width="1731" height="551" alt="image" src="https://github.com/user-attachments/assets/224f4d80-fe25-419d-b317-fdfe790563fc" />
+
 
